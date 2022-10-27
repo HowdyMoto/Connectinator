@@ -14,7 +14,7 @@ First, arrange the wires so that the power LED wires are at the correct polarity
 
 ![ScreenShot](/Images/Step1.png)
 ![](/Images/Step1.png)
-![Step 1](https://raw.githubusercontent.com/HowdyMoto/Front_Panel_Wire_Housing/master/Images/Step1.png)
+![Step 1](https://raw.githubusercontent.com/HowdyMoto/Front_Panel_Wire_Housing/master/Images/Step1.jpg)
 
 
 Next, side the housing around the wires by inserting the wires through the small slit in the side. The end with the ridge on it shoudl be facing away from the end of the wires.
