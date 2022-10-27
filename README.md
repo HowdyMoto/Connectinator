@@ -10,8 +10,8 @@ This housing is only for the power LED and power switch. If you have HDD lights 
 I have printed this housing numerous times with PLA. I prefer to use a 0.25mm nozzle, so your tolerances may vary with other nozzle sizes. File an issue here if you find that the toelrances don't work with other nozzle sizes, and I can make another version with different toelrances.
 
 ## Using the housing
-- Arrange the wires so that the power LED wires are at the correct polarity. Then, place the power switch wires next to them.
-- Slide the housing around the wires by inserting the wires through the small slit in the side. The end with the ridge on it shoudl be facing away from the end of the wires.
+- Slide the housing around the wires by inserting the wires through the small slit in the side. The end with the ridge on it should be facing away from the end of the wires.
+- Ensure that the polarity of the power LED wires is correct. The power switch wires, which typically are attached with one rectangular connector, has no polarity. 
 - Slide the ends of the wires into the receiving end of the housing.
 - Finally, hold the housing and push all 4 wires on to the motherboard in the correct location.
 
