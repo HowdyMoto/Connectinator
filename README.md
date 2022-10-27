@@ -11,13 +11,17 @@ I have printed this housing numerous times with PLA. I prefer to use a 0.25mm no
 
 ## Using the housing
 First, arrange the wires so that the power LED wires are at the correct polarity. Then, place the power switch wires next to them.
-https://github.com/HowdyMoto/Front_Panel_Wire_Housing/blob/main/Instructional%20Images/Step1.png
+
+![Step1](https://user-images.githubusercontent.com/43309236/198394526-44bb5590-73cb-433b-b11c-ea6a0032f045.png)
 
 Next, side the housing around the wires by inserting the wires through the small slit in the side. The end with the ridge on it shoudl be facing away from the end of the wires.
-https://github.com/HowdyMoto/Front_Panel_Wire_Housing/blob/main/Instructional%20Images/Step2.png
+
+![Step2](https://user-images.githubusercontent.com/43309236/198394380-4f1957e8-aeb5-47cb-a60a-e365dd8c74c1.png)
 
 Slide the ends of the wires into the receiving end of the housing.
-https://github.com/HowdyMoto/Front_Panel_Wire_Housing/blob/main/Instructional%20Images/Step3.png
+
+![Step3](https://user-images.githubusercontent.com/43309236/198394442-3476360a-bd3c-431b-89ee-1e5f52c3e534.png)
 
 Finally, hold the housing and push all 4 wires on to the motherboard in the correct location.
-https://github.com/HowdyMoto/Front_Panel_Wire_Housing/blob/main/Instructional%20Images/Step4.png
+
+![Step4](https://user-images.githubusercontent.com/43309236/198394455-7633f571-1c5c-4332-a57c-be2000bc1330.png)
