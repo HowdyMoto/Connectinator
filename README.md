@@ -12,6 +12,7 @@ I have printed this housing numerous times with PLA. I prefer to use a 0.25mm no
 ## Using the housing
 First, arrange the wires so that the power LED wires are at the correct polarity. Then, place the power switch wires next to them.
 
+![image 1](./images/1.png "Step 1")
 ![Step 1](https://raw.githubusercontent.com/HowdyMoto/Front_Panel_Wire_Housing/master/Images/Step1.jpg)
 
 ![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
