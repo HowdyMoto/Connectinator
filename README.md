@@ -7,7 +7,8 @@ This housing makes the job easy and fast. And, you can make one yourself if you 
 This housing is only for the power LED and power switch. If you have HDD lights you'd like to hook up, this housing won't work.
 
 ## Printing the housing
-I have printed this housing numerous times with PLA. I prefer to use a 0.25mm nozzle, so your tolerances may vary with other nozzle sizes. File an issue here if you find that the toelrances don't work with other nozzle sizes, and I can make another version with different toelrances.
+I have printed this housing numerous times with PLA. I prefer to use a 0.25mm nozzle, so your tolerances may vary with other nozzle sizes. 
+If you find that the toelrances don't work with other nozzle sizes, file an issue above, and I can make another version with different tolerances.
 
 ## Using the housing
 - Slide the housing around the wires by inserting the wires through the small slit in the side. The end with the ridge on it should be facing away from the end of the wires.
