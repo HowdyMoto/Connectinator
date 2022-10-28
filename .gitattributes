@@ -44,5 +44,4 @@
 *.7z binary
 
 # model files
-*.step binary
 *.stl binary
