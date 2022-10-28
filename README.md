@@ -13,5 +13,4 @@ I have printed this housing numerous times with PLA. I prefer to use a 0.25mm no
 - Slide the housing around the wires by inserting the wires through the small slit in the side. The end with the ridge on it should be facing away from the end of the wires.
 - Ensure that the polarity of the power LED wires is correct. The power switch wires, which typically are attached with one rectangular connector, has no polarity. 
 - Slide the ends of the wires into the receiving end of the housing.
-- Finally, hold the housing and push all 4 wires on to the motherboard in the correct location.
-
+- Finally, hold the housing and push all 4 wires on to the motherboard pins in the correct location.
