@@ -1,6 +1,6 @@
 # Front Panel Wire Housing
 
-For years, I dreaded the process of plugging the power LED and power switch wires from my PC front panels into a motherboard. I usually used long needle-nose pliers to do the job. It's dark and hard to see, and it's tough to know know you have the wires in the right place.
+For years, I dreaded the process of plugging the power LED and power switch wires from my PC front panels into a motherboard. I usually used long needle-nose pliers to do the job. It's dark and hard to see, and it's tough to tell if you have the wires in the right place, since your fingers are in the way.
 
 This housing makes the job easy and fast. And, you can make one yourself if you have a 3D printer.
 
